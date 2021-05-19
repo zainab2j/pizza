@@ -1,0 +1,11 @@
+create a directory structure
+create NPM to start and create all dependencies t
+  -dependences
+  -express
+  -ejs express
+  -nodeman
+  -sublime dependencies
+  -nodemon  // dev dependeces
+Create express server , create express.js
+create home page using html and css
+
